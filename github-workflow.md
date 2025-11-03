@@ -58,7 +58,7 @@
 
 ---
 
-![github-creds](./assets/github-creds.png)
+![github-creds](./assets/git-secrets.png)
 
 ---
 
