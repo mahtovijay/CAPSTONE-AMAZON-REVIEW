@@ -14,7 +14,7 @@
 * Setup Terraform (1.5.7)
 * Configure AWS credentials (from secrets)
 * `terraform init` in `infra/bootstrap` with `-backend=false`
-* `terraform apply` in `infra/bootstrap`**
+* `terraform apply` in `infra/bootstrap`
 
 **Required secrets / env used:**
 
