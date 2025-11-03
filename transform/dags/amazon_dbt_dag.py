@@ -1,4 +1,4 @@
-# capstone/airflow/dags/currency_dbt_dag.py
+# capstone/airflow/dags/amazon_dbt_dag.py
 from datetime import datetime, timedelta
 import os
 
