@@ -66,7 +66,7 @@
 
 ---
 
-![Terraform-Infra](./assets/Terraform-Infra.png)
+![Terraform-Infra](./assets/Terraform-Infra-Build.png)
 
 ---
 
@@ -90,6 +90,8 @@
 **Required secrets / env used:** same Snowflake + AWS secrets as infra build.
 
 **Notes:** This workflow uses a `concurrency` group to limit parallel destroy runs and requires the explicit `DESTROY` token to proceed.
+
+![DESTORY](./assets/Terraform-Infra-Destroy.png)
 
 ---
 
